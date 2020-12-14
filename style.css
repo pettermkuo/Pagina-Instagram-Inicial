@@ -118,7 +118,7 @@ body
     align-items: center;
     justify-content: center;
     width: 100%;
-    padding: 1.3rem 0;
+    padding: 1.3rem;
 }
 
 .dowload
@@ -139,7 +139,7 @@ body
 
 .app-download:nth-child(1)
 {
-    background-image: url(./img/logoapple.jpg);
+    background-image: url(./img/logoapple.png);
 }
 
 .app-download:nth-child(2)
